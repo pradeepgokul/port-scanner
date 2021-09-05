@@ -1,0 +1,3 @@
+## Basic Port Scanning
+
+Port Scanning is the art of looking for open ports on a host or system. When you visit a website, you are allowing information to traverse through a port. In this case port 80 (http) or 443 (https). In addition to the above case, we have SSH (port 22), FTP (port 21), DNS (port 53), POP3 (port 110) and thousands of others. Ports or sockets allow the flow of information via a network [1]. However, not all ports are open. In fact, most ports are closed off outside the most popular ports, port 80 for example. This is where a port scanner comes in handy, it allows pentesters to see which ports are open to the internet and sniffing out the types of services on these ports.
